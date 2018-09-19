@@ -12,10 +12,10 @@ The file `individual.papers.csv` contains one row per paper per researcher and i
 * n_not.australia: number of affliations outside Australia
 * baby.flag: flag for first baby (0 = no baby at this time, 1 = baby at this time)
 * years.since: years since first baby
-* baby.flag2: flag for second baby
-* years.since2: years since second baby (0 = no baby at this time, 1 = baby at this time)
+* baby.flag2: flag for second baby (0 = no baby at this time, 1 = baby at this time)
+* years.since2: years since second baby
 
-The file `individual.papers.csv` contains one row per year per researcher and is used to examine the research output data. The variables are:
+The file `researchers.by.year.csv` contains one row per year per researcher and is used to examine the research output data. The variables are:
 * num: researcher ID number
 * career.year: years since first paper
 * year: calendar year
@@ -23,5 +23,5 @@ The file `individual.papers.csv` contains one row per year per researcher and is
 * citations: yearly number of Scopus citations
 * baby.flag: flag for first baby (0 = no baby at this time, 1 = baby at this time)
 * years.since: years since first baby
-* baby.flag2: flag for second baby
-* years.since2: years since second baby (0 = no baby at this time, 1 = baby at this time)
+* baby.flag2: flag for second baby (0 = no baby at this time, 1 = baby at this time)
+* years.since2: years since second baby
